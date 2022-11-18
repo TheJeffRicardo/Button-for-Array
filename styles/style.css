@@ -1,0 +1,12 @@
+section {
+    background-image: linear-gradient(rgb(12, 255, 28), rgb(252, 252, 88));
+    text-align: center;
+    padding: 10%;
+}
+.button{
+    padding: 2%;
+    padding-left: 70px;
+}
+#display{
+    margin-left: 50px;
+}
